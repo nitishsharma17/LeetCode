@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitishsharma17/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishsharma17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
