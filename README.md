@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
