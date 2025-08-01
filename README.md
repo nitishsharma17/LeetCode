@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitishsharma17/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
+| [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
