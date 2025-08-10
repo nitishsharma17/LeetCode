@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 ## Binary Search
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
+| [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
