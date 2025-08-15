@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/nitishsharma17/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
 ## Recursion
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/nitishsharma17/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
