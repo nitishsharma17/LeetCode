@@ -26,6 +26,6 @@ class Solution {
         
 
         reverse(nums,j+1 , n-1);
-        System.gc();
+        // System.gc();
     }
 }
