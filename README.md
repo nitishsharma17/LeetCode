@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/nitishsharma17/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishsharma17/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nitishsharma17/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/nitishsharma17/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/nitishsharma17/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishsharma17/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nitishsharma17/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
