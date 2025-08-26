@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/nitishsharma17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nitishsharma17/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishsharma17/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/nitishsharma17/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitishsharma17/LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitishsharma17/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nitishsharma17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nitishsharma17/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishsharma17/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nitishsharma17/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/nitishsharma17/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
