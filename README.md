@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitishsharma17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitishsharma17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0260-single-number-iii](https://github.com/nitishsharma17/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/nitishsharma17/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nitishsharma17/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/nitishsharma17/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 ## Merge Sort
 |  |
