@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nitishsharma17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nitishsharma17/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nitishsharma17/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
