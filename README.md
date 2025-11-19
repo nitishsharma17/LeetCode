@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitishsharma17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitishsharma17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/nitishsharma17/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/nitishsharma17/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -216,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -254,5 +257,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
