@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nitishsharma17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Search
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/nitishsharma17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -275,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/nitishsharma17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
