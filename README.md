@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Search
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nitishsharma17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
