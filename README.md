@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0101-symmetric-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/nitishsharma17/LeetCode/tree/master/0130-surrounded-regions) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0101-symmetric-tree) |
 ## Bit Manipulation
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
