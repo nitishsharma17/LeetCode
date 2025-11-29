@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nitishsharma17/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/nitishsharma17/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nitishsharma17/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nitishsharma17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nitishsharma17/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nitishsharma17/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/nitishsharma17/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitishsharma17/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
