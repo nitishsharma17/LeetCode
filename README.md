@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitishsharma17/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitishsharma17/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
