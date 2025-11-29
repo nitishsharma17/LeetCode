@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/nitishsharma17/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/nitishsharma17/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/nitishsharma17/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitishsharma17/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/nitishsharma17/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/nitishsharma17/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitishsharma17/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitishsharma17/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
