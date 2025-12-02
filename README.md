@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nitishsharma17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/nitishsharma17/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitishsharma17/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitishsharma17/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
@@ -336,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
