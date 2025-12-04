@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitishsharma17/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/nitishsharma17/LeetCode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitishsharma17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/nitishsharma17/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nitishsharma17/LeetCode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/nitishsharma17/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nitishsharma17/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Merge Sort
