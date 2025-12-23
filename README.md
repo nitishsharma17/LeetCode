@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/nitishsharma17/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nitishsharma17/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/nitishsharma17/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitishsharma17/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nitishsharma17/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/nitishsharma17/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitishsharma17/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nitishsharma17/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Rolling Hash
 |  |
 | ------- |
