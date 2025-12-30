@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nitishsharma17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/nitishsharma17/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitishsharma17/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nitishsharma17/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nitishsharma17/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/nitishsharma17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
+| [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
