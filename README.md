@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitishsharma17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nitishsharma17/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/nitishsharma17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nitishsharma17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nitishsharma17/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nitishsharma17/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nitishsharma17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishsharma17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/nitishsharma17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nitishsharma17/LeetCode/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/nitishsharma17/LeetCode/tree/master/0392-is-subsequence) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitishsharma17/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
