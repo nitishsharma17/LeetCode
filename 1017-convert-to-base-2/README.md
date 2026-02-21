@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/convert-to-base-2">1017. Convert to Base -2</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, return <em>a binary string representing its representation in base</em> <code>-2</code>.</p>
+<h2><a href="https://leetcode.com/problems/convert-to-base-2">1070. Convert to Base -2</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, return <em>a binary string representing its representation in base</em> <code>-2</code>.</p>
 
 <p><strong>Note</strong> that the returned string should not have leading zeros unless the string is <code>&quot;0&quot;</code>.</p>
 
