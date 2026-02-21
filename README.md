@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1017-convert-to-base-2](https://github.com/nitishsharma17/LeetCode/tree/master/1017-convert-to-base-2) |
 | [1642-water-bottles](https://github.com/nitishsharma17/LeetCode/tree/master/1642-water-bottles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitishsharma17/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitishsharma17/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
