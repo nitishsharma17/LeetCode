@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/nitishsharma17/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/nitishsharma17/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nitishsharma17/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishsharma17/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitishsharma17/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nitishsharma17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nitishsharma17/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/nitishsharma17/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/nitishsharma17/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishsharma17/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -376,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nitishsharma17/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nitishsharma17/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
