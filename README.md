@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nitishsharma17/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nitishsharma17/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/nitishsharma17/LeetCode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/nitishsharma17/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/nitishsharma17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nitishsharma17/LeetCode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/nitishsharma17/LeetCode/tree/master/0130-surrounded-regions) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nitishsharma17/LeetCode/tree/master/0039-combination-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/nitishsharma17/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Sliding Window
 |  |
