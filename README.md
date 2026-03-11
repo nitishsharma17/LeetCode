@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nitishsharma17/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/nitishsharma17/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nitishsharma17/LeetCode/tree/master/0342-power-of-four) |
+| [1009-complement-of-base-10-integer](https://github.com/nitishsharma17/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nitishsharma17/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Merge Sort
 | Problem Name | Difficulty |
