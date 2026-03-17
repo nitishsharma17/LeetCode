@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nitishsharma17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishsharma17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0409-longest-palindrome](https://github.com/nitishsharma17/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nitishsharma17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/nitishsharma17/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nitishsharma17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nitishsharma17/LeetCode/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/nitishsharma17/LeetCode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/nitishsharma17/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitishsharma17/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/nitishsharma17/LeetCode/tree/master/3447-clear-digits) |
 ## Trie
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0409-longest-palindrome](https://github.com/nitishsharma17/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nitishsharma17/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
