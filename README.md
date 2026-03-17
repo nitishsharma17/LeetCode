@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nitishsharma17/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/nitishsharma17/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nitishsharma17/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitishsharma17/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitishsharma17/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/nitishsharma17/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0958-sort-array-by-parity-ii](https://github.com/nitishsharma17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/nitishsharma17/LeetCode/tree/master/1137-height-checker) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nitishsharma17/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitishsharma17/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting Sort
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/nitishsharma17/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishsharma17/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nitishsharma17/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nitishsharma17/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 | Problem Name | Difficulty |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nitishsharma17/LeetCode/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/nitishsharma17/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/nitishsharma17/LeetCode/tree/master/1036-rotting-oranges) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nitishsharma17/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
